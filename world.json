@@ -1,0 +1,21 @@
+{
+  "name": "star-wars",
+  "title": "Star wars",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "sw5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.269",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.6.2.2.2.2"
+}

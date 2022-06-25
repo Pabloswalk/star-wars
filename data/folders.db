@@ -1,0 +1,23 @@
+{"name":"Elven Tower","type":"Scene","parent":"hbZHHB7gvO7kFbIn","sorting":"a","sort":0,"flags":{},"_id":"2sqG4L2LsHcxbE5q"}
+{"name":"Monsters","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"3be6YOtLeFVvJTCq"}
+{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"64sRaUsgthn3Zo9U"}
+{"_id":"H0snespchBX6sEnx","name":"2. Personajes","type":"Scene","parent":"qtbzEuYwlwPwUlb9","sorting":"a","sort":0,"color":"#409e33","flags":{}}
+{"name":"Diarios","type":"Actor","parent":"tTgpLbD4q0kKzy9g","sorting":"a","sort":0,"color":null,"flags":{},"_id":"KFMfvWDubZRQnUol"}
+{"name":"Lore","type":"Scene","parent":"lkCRRuEKFf9XS1Fs","sorting":"a","sort":0,"color":"#e60000","flags":{},"_id":"L053Q7YEZGXB6n4L"}
+{"_id":"LFGJ0bDFPYdmr8YN","name":"Personajes","type":"Actor","parent":"tTgpLbD4q0kKzy9g","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Elven Tower Free Maps","type":"Scene","parent":"2sqG4L2LsHcxbE5q","sorting":"a","sort":0,"flags":{},"_id":"R7dAkKkCQAFpamj8"}
+{"_id":"TbHidKYK3a7aIeQh","name":"4. Galaxia","type":"Scene","parent":"qtbzEuYwlwPwUlb9","sorting":"a","sort":0,"color":"#ba24ff","flags":{}}
+{"name":"Tiendas","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"TsmcX0OZwwuHezIU"}
+{"_id":"YMvEbicAqrCyZEPI","name":"3. Diario","type":"Scene","parent":"qtbzEuYwlwPwUlb9","sorting":"a","sort":0,"color":"#00ccff","flags":{}}
+{"name":"Moulinette","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"hbZHHB7gvO7kFbIn"}
+{"name":"Jugadores","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"hfGMaxELEetRivUm"}
+{"_id":"lkCRRuEKFf9XS1Fs","name":"1. Inicio","type":"Scene","parent":"qtbzEuYwlwPwUlb9","sorting":"a","sort":0,"color":"#c16c6c","flags":{}}
+{"name":"Diario de Jugadores","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"mNyCdwzOQxRNViVt"}
+{"_id":"maWARns03Pdz3Yh8","name":"5. Extras","type":"Scene","parent":"qtbzEuYwlwPwUlb9","sorting":"a","sort":0,"color":"#14ffc4","flags":{}}
+{"name":"Trigger Happy","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"og2OjPKCVgawpQpZ"}
+{"name":"Menú inicial","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"qtbzEuYwlwPwUlb9"}
+{"name":"Galaxia","type":"Actor","parent":"tTgpLbD4q0kKzy9g","sorting":"a","sort":0,"color":null,"flags":{},"_id":"rblcYZ91hFY68Wjz"}
+{"name":"trigger happy","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"tTgpLbD4q0kKzy9g"}
+{"name":"Lore","type":"Actor","parent":"wZ3esp1hXYWfx60q","sorting":"a","sort":0,"color":null,"flags":{},"_id":"tt1KSjcFMsXYxRTN"}
+{"name":"Extras","type":"Actor","parent":"tTgpLbD4q0kKzy9g","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ujQfoS8KvepTQ0Ab"}
+{"name":"Inicio","type":"Actor","parent":"tTgpLbD4q0kKzy9g","sorting":"a","sort":0,"color":null,"flags":{},"_id":"wZ3esp1hXYWfx60q"}
